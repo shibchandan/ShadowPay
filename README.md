@@ -295,6 +295,6 @@ This is a teaching demo. To make it production-grade you'd swap these components
 
 ## Technical Wiki & Detailed Specifications
 
-* For a deep-dive specification of the cryptosystems, atomic concurrency locks, and transaction packet TTL details, see the **[Cryptography, Concurrency, and Packet Lifecycle Specification](file:///d:/ShadowPay/docs/cryptography_and_concurrency.md)**.
-* For the active security controls, simulated trust boundaries, and production security roadmap, see the **[Security Audit & Threat Model Analysis](file:///d:/ShadowPay/docs/security_audit.md)**.
-* For the database schema layout, mesh simulation architecture, and the chronological record of engineering fixes, check out the **[Technical Wiki & Living Problems Ledger](file:///d:/ShadowPay/WIKI.md)**.
+* For a deep-dive specification of the cryptosystems, atomic concurrency locks, and transaction packet TTL details, see the **[Cryptography, Concurrency, and Packet Lifecycle Specification](./docs/cryptography_and_concurrency.md)**.
+* For the active security controls, simulated trust boundaries, and production security roadmap, see the **[Security Audit & Threat Model Analysis](./docs/security_audit.md)**.
+* For the database schema layout, mesh simulation architecture, and the chronological record of engineering fixes, check out the **[Technical Wiki & Living Problems Ledger](./WIKI.md)**.

@@ -220,13 +220,11 @@ upi-offline-mesh/
 │   ├── service/                         Gossip simulator service
 │   └── tests/                           concurrency & tampering test script
 │
-├── client/                              ── React Frontend
-│   ├── package.json                     frontend dependencies
-│   ├── index.html                       HTML entry point
-│   ├── src/                             React source (App.jsx, index.css)
-│   └── vite.config.js                   Vite proxy setup
-│
-└── java_backup/                         ── Original Spring Boot Backup
+└── client/                              ── React Frontend
+    ├── package.json                     frontend dependencies
+    ├── index.html                       HTML entry point
+    ├── src/                             React source (App.jsx, index.css)
+    └── vite.config.js                   Vite proxy setup
 ```
 
 ---
